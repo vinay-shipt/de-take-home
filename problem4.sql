@@ -1,0 +1,5 @@
+-- if the network is over to 10000
+-- SQL could be a good choice
+-- but we have to define more talbes to simplify the logic
+-- and spend more storage to save the result which lead to cost more time to compute
+-- I think we can use spark to solve this problem which can do map reduce job to save more time
