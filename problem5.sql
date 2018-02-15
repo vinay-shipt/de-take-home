@@ -1,0 +1,6 @@
+--I think this problem in MySQL
+--If it's not MySQL, we can use some more high level function in the query job
+--It's similar to the recommendation problem
+--we can get pair like (A, B), for each tuple (A, B), we can reduce the result to a list in Spark
+-- (A, B) -> [C, D, ....]
+-- Spark will save more time to compute
